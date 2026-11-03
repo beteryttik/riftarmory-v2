@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "H",
+    "R",
+    "R"
+  ],
+  "key": {
+    "H": "riftarmory:void_fragment",
+    "R": "riftarmory:rod_diamond"
+  },
+  "result": {
+    "id": "riftarmory:mace_rift",
+    "count": 1
+  }
+}

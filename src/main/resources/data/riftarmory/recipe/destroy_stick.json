@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "TTT",
+    "TRT",
+    "TTT"
+  ],
+  "key": {
+    "T": "minecraft:tnt",
+    "R": "riftarmory:rod_diamond"
+  },
+  "result": {
+    "id": "riftarmory:destroy_stick",
+    "count": 1
+  }
+}

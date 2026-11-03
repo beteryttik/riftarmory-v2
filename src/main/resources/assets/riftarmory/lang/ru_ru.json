@@ -1,0 +1,19 @@
+{
+  "itemgroup.riftarmory": "Оружие Разлома",
+  "item.riftarmory.rod_diamond": "Алмазный стержень",
+  "item.riftarmory.void_fragment": "Фрагмент пустоты",
+  "item.riftarmory.dragon_heart": "Сердце дракона",
+  "item.riftarmory.ghost_glass": "Призрачное стекло",
+  "item.riftarmory.mace_rift": "Булава Разлома",
+  "item.riftarmory.spear_rift": "Копьё Разлома",
+  "item.riftarmory.mace_dragon": "Булава Дракона",
+  "item.riftarmory.spear_dragon": "Копьё Дракона",
+  "item.riftarmory.mace_lightning": "Булава Молнии",
+  "item.riftarmory.mace_ghost": "Булава Призрака",
+  "item.riftarmory.spear_ghost": "Призрачное копьё",
+  "item.riftarmory.destroy_stick": "Палка Уничтожения",
+  "message.riftarmory.no_stability": "Стабильность стержня слишком низкая!",
+  "message.riftarmory.dash_blocked": "Рывок невозможен: под точкой жидкость!",
+  "message.riftarmory.dash_too_high": "Рывок невозможен: точка слишком высоко!",
+  "message.riftarmory.destroy_warning": "Сервер будет уничтожен..."
+}

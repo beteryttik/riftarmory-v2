@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "B",
+    "D",
+    "B"
+  ],
+  "key": {
+    "B": "minecraft:blaze_rod",
+    "D": "minecraft:diamond"
+  },
+  "result": {
+    "id": "riftarmory:dragon_heart",
+    "count": 1
+  }
+}

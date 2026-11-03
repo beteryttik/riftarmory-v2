@@ -1,0 +1,19 @@
+{
+  "itemgroup.riftarmory": "Rift Armory",
+  "item.riftarmory.rod_diamond": "Diamond Rod",
+  "item.riftarmory.void_fragment": "Void Fragment",
+  "item.riftarmory.dragon_heart": "Dragon Heart",
+  "item.riftarmory.ghost_glass": "Ghost Glass",
+  "item.riftarmory.mace_rift": "Rift Mace",
+  "item.riftarmory.spear_rift": "Rift Spear",
+  "item.riftarmory.mace_dragon": "Dragon Mace",
+  "item.riftarmory.spear_dragon": "Dragon Spear",
+  "item.riftarmory.mace_lightning": "Lightning Mace",
+  "item.riftarmory.mace_ghost": "Ghost Mace",
+  "item.riftarmory.spear_ghost": "Ghost Spear",
+  "item.riftarmory.destroy_stick": "Destruction Stick",
+  "message.riftarmory.no_stability": "Rod stability too low!",
+  "message.riftarmory.dash_blocked": "Dragon dash blocked: liquid below!",
+  "message.riftarmory.dash_too_high": "Dragon dash blocked: target too high!",
+  "message.riftarmory.destroy_warning": "The server will be destroyed..."
+}

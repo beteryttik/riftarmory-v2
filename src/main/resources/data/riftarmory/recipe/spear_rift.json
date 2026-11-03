@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "R",
+    "H"
+  ],
+  "key": {
+    "H": "riftarmory:void_fragment",
+    "R": "riftarmory:rod_diamond"
+  },
+  "result": {
+    "id": "riftarmory:spear_rift",
+    "count": 1
+  }
+}

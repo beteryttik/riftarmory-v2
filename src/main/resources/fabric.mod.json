@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "riftarmory",
+  "version": "${version}",
+  "name": "Rift Armory",
+  "description": "Оружие Разлома: булавы и копья стихий, Палка Уничтожения и сундуки-разломы.",
+  "authors": ["beterytik"],
+  "license": "MIT",
+  "icon": "assets/riftarmory/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.riftarmory.RiftArmory"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
